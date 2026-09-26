@@ -1,0 +1,40 @@
+{
+	"name": "template",
+	"tree": {
+		"$className": "DataModel",
+
+		"ReplicatedStorage": {
+			"Packages": {
+				"$path": "roblox_packages"
+			},
+			"App": {
+				"$path": "src/public"
+			},
+			"Util": {
+				"$path": "src/lib"
+			}
+		},
+
+		"ServerScriptService": {
+			"System": {
+				"$path": "src/loaders/server"
+			}
+		},
+
+		"ServerStorage": {
+			"App": {
+				"$path": "src/private"
+			}
+		},
+
+		"StarterPlayer": {
+			"StarterPlayerScripts": {
+				"$className": "StarterPlayerScripts",
+
+				"System": {
+					"$path": "src/loaders/client"
+				}
+			}
+		}
+	}
+}

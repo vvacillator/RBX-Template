@@ -1,0 +1,11 @@
+{
+	"luau-lsp.platform.type": "roblox",
+	"luau-lsp.sourcemap.enabled": true,
+	"luau-lsp.sourcemap.autogenerate": false,
+	"luau-lsp.sourcemap.sourcemapFile": "sourcemap.json",
+	"luau-lsp.completion.imports.enabled": true,
+	"editor.formatOnSave": true,
+	"[luau]": {
+		"editor.defaultFormatter": "JohnnyMorganz.stylua"
+	}
+}

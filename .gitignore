@@ -1,0 +1,24 @@
+# Packages
+roblox_packages/
+luau_packages/
+lune_packages/
+.pesde/
+
+# Wally
+/Packages
+/ServerPackages
+/DevPackages
+
+# Tooling
+sourcemap.json
+
+# Roblox
+/*.rbxl
+/*.rbxlx
+/*.rbxm
+/*.rbxmx
+/*.rbxl.lock
+/*.rbxlx.lock
+
+# Mac
+.DS_Store
